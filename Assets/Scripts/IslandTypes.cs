@@ -1,0 +1,1 @@
+public enum IslandTypes { Resource = 0, Trading = 1, Event = -1}
